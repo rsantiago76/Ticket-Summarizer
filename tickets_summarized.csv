@@ -1,0 +1,21 @@
+ticket_id,submitted_by,description,summary,category,priority
+1001,jsmith,Outlook keeps crashing every time I open an email with an attachment. Started this morning.,Outlook crashes whenever the user opens emails with attachments (started this morning).,Software,Medium
+1002,mlopez,I need VPN access so I can work from home starting next Monday.,Request VPN access to work from home starting next Monday,Access,Medium
+1003,akim,The printer on the 3rd floor says offline and nobody can print. We have a client meeting in an hour!,"Third-floor printer is offline and unavailable, preventing printing for an upcoming client meeting.",Hardware,High
+1004,bwhite,Forgot my password and I'm locked out of my laptop.,User forgot their password and is locked out of their laptop,Access,High
+1005,tnguyen,Can you install Adobe Acrobat Pro on my computer? Need it for contracts.,User requests installation of Adobe Acrobat Pro on their computer to handle contracts.,Software,Medium
+1006,rpatel,The whole sales team can't reach the shared drive. Getting access denied errors.,The entire sales team is blocked from accessing the shared drive and receiving 'Access denied' errors.,Access,High
+1007,cjones,"My second monitor flickers on and off. Not urgent, just annoying.",Second monitor intermittently flickers on and off.,Hardware,Low
+1008,dgarcia,Got a weird email asking me to verify my bank login. I clicked the link before I realized. What do I do?,Clicked a phishing email link requesting bank login verification,Security,Critical
+1009,ewilson,Wi-Fi in conference room B drops every few minutes.,Wi-Fi in conference room B disconnects every few minutes,Network,High
+1010,fmartin,"New hire Sarah starts Tuesday and needs a laptop, email account, and Teams access.","New hire Sarah starts Tuesday and needs a laptop, email account, and Teams access",Request,Medium
+1011,gbrown,Excel freezes when I open the quarterly budget file. Other files are fine.,Microsoft Excel freezes when opening the quarterly budget file while other files open normally.,Software,High
+1012,hlee,Website for customers is showing a 500 error. Customers are calling us.,Customer-facing website is returning HTTP 500 errors and customers are unable to access it,Software,Critical
+1013,ianderson,Can I get a bigger mailbox? I keep getting storage full warnings.,User requests an increased mailbox quota due to repeated storage full warnings,Request,Medium
+1014,jthomas,My laptop battery dies after 30 minutes.,Laptop battery only lasts about 30 minutes before dying.,Hardware,Medium
+1015,kmoore,Teams calls keep dropping audio for everyone in the Raleigh office.,Microsoft Teams calls in the Raleigh office are repeatedly dropping audio for all participants.,Network,Critical
+1016,ltaylor,"Please remove access for Mark Davis, his last day was Friday.",Revoke all system access for Mark Davis who departed last Friday,Access,High
+1017,mjackson,The keyboard on my laptop has a sticky spacebar.,Laptop keyboard spacebar is sticky,Hardware,Low
+1018,nharris,Server room temperature alarm is going off.,Server room temperature alarm is sounding indicating possible overheating.,Hardware,High
+1019,oclark,How do I set up my out-of-office reply?,User asks how to set up an out-of-office (automatic) email reply.,Software,Low
+1020,plewis,Antivirus popped up saying it found a threat and quarantined a file.,Antivirus alerted and quarantined a detected threat on the user's computer,Security,High
